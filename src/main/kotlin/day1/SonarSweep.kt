@@ -5,6 +5,7 @@ import java.io.File
 fun main() {
     lunch()
     dinner()
+    snack()
 }
 
 // refactored afternoon using a map
