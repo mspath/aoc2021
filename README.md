@@ -16,3 +16,7 @@ observe the measurements of a submarine.
 ### Day 2 Dive
 
 navigate a submarine in the seas.
+
+### Day 3 Binary Diagnostics
+
+decode binary encoded reports.
