@@ -20,3 +20,11 @@ navigate a submarine in the seas.
 ### Day 3 Binary Diagnostics
 
 decode binary encoded reports.
+
+### Day 4 Giant Squid
+
+make sure a giant squid wins a game of bingo.
+
+### Day 5 Hypothermal Venture
+
+stay safe on the grid by finding the danger zones.
