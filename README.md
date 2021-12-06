@@ -28,3 +28,7 @@ make sure a giant squid wins a game of bingo.
 ### Day 5 Hypothermal Venture
 
 stay safe on the grid by finding the danger zones.
+
+### Day 6 Laternfish
+
+get a sense of exponential growth.
