@@ -32,3 +32,7 @@ stay safe on the grid by finding the danger zones.
 ### Day 6 Laternfish
 
 get a sense of exponential growth.
+
+### Day 7 The Treachery of Whales
+
+get a sense of coordination costs when fighting off a whale via a fleet of crabs in submarines.
