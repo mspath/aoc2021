@@ -36,3 +36,11 @@ get a sense of exponential growth.
 ### Day 7 The Treachery of Whales
 
 get a sense of coordination costs when fighting off a whale via a fleet of crabs in submarines.
+
+### Day 8 Seven Segment Search
+
+decode scrambled signals.
+
+### Day 9 Smoke Basin
+
+find spots on a map.

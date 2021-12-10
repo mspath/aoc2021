@@ -4,8 +4,8 @@ import java.io.File
 
 fun main() {
     //breakfast()
-    lunch()
-    //play()
+    //lunch()
+    play()
 }
 
 // helper extension to sort words by char
