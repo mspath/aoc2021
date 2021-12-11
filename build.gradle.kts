@@ -15,6 +15,7 @@ repositories {
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2-native-mt")
     testImplementation(kotlin("test"))
+    testImplementation("com.github.stefanbirkner:system-lambda:1.2.0")
 }
 
 tasks.test {
