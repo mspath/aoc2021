@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    day10.main()
+    day11.main()
 }
