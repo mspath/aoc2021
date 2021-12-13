@@ -44,3 +44,18 @@ decode scrambled signals.
 ### Day 9 Smoke Basin
 
 find spots on a map.
+
+### Day 10 Syntax Scoring
+
+help out syntax scoring algorithms.
+
+### Day 11 Dumbo Ocotopus
+
+find your way through a grid of bioluminescent octopuses.
+
+### Day 12 Passage Passing
+
+find all paths between start and end.
+
+this one was hard for me. still need to wrap my head around traversing search and the exit conditions for recursive functions.
+
