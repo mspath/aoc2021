@@ -59,3 +59,12 @@ find all paths between start and end.
 
 this one was hard for me. still need to wrap my head around traversing search and the exit conditions for recursive functions.
 
+### Day 13 Traansparent Origami
+
+discover the hidden code by folding and merging points on a transparent sheet of paper.
+
+### Day 14 Extended Polymerization
+
+handle exponential insertions of symbols.
+
+this one was hard for me again. see day 12.
