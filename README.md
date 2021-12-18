@@ -68,3 +68,19 @@ discover the hidden code by folding and merging points on a transparent sheet of
 handle exponential insertions of symbols.
 
 this one was hard for me again. see day 12.
+
+### Day 15 Chiton
+
+find the shortest path through a cave covered in chitons.
+
+another fun one, especially if you kind of reinvent a poor man's dijkstra.
+
+### Day 16 Packet Decoder
+
+write a parser for the Buoyancy Interchange Transmission System.
+
+this was tough but rewarding.
+
+### Day 17 Trick Shot
+
+take probes in the sea. 
