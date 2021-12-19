@@ -84,3 +84,7 @@ this was tough but rewarding.
 ### Day 17 Trick Shot
 
 take probes in the sea. 
+
+### Day 18 Snailfish
+
+I had to give a pass on this one. Need to brush up on trees first.
