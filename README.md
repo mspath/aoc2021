@@ -88,3 +88,8 @@ take probes in the sea.
 ### Day 18 Snailfish
 
 I had to give a pass on this one. Need to brush up on trees first.
+
+### Day 19 Beacon Scanner
+
+3d puzzle. I had to give another pass. Need to brush up on matrices and backtracking first.
+

@@ -1,16 +1,16 @@
 package day18
 
-class SnailfishMathError(message:String): Exception(message)
+class SnailfishMathException(message:String): Exception(message)
 
 fun main() {
     try {
         breakfast()
-    } catch (sme: SnailfishMathError) {
+    } catch (sme: SnailfishMathException) {
         println(sme)
         println("don't worry, snailfish math is hard.")
     }
 }
 
 fun breakfast() {
-    throw SnailfishMathError("too hard. revisit later.")
+    throw SnailfishMathException("too hard. revisit later.")
 }
