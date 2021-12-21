@@ -93,3 +93,6 @@ I had to give a pass on this one. Need to brush up on trees first.
 
 3d puzzle. I had to give another pass. Need to brush up on matrices and backtracking first.
 
+### Day 20 Trench Map
+
+a game of life style puzzle with a little twist, since the background of the world was flashing. 
