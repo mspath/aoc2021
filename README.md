@@ -96,3 +96,7 @@ I had to give a pass on this one. Need to brush up on trees first.
 ### Day 20 Trench Map
 
 a game of life style puzzle with a little twist, since the background of the world was flashing. 
+
+### Day 21 Dirac Dice
+
+a dynamic programming puzzle. 
