@@ -100,3 +100,7 @@ a game of life style puzzle with a little twist, since the background of the wor
 ### Day 21 Dirac Dice
 
 a dynamic programming puzzle. 
+
+### Day 22 Reactor Reboot
+
+keep track of reactor cuboidsd.
