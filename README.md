@@ -104,3 +104,7 @@ a dynamic programming puzzle.
 ### Day 22 Reactor Reboot
 
 keep track of reactor cuboidsd.
+
+### Day 23 Amphipod
+
+a little, weird shortes path puzzle. need to revisit.
