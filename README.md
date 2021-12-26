@@ -108,3 +108,11 @@ keep track of reactor cuboidsd.
 ### Day 23 Amphipod
 
 a little, weird shortes path puzzle. need to revisit.
+
+### Day 24 Arithmetic Logic Unit
+
+went over my head, need to revisit.
+
+### Day 25 Sea Cucumber
+
+find your parking spot at the bottom of the ocean.
