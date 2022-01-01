@@ -103,11 +103,11 @@ a dynamic programming puzzle.
 
 ### Day 22 Reactor Reboot
 
-keep track of reactor cuboidsd.
+keep track of reactor cuboids.
 
 ### Day 23 Amphipod
 
-a little, weird shortes path puzzle. need to revisit.
+a little, weird shortest path puzzle. need to revisit.
 
 ### Day 24 Arithmetic Logic Unit
 
@@ -116,3 +116,29 @@ went over my head, need to revisit.
 ### Day 25 Sea Cucumber
 
 find your parking spot at the bottom of the ocean.
+
+---
+
+## Links
+
+here are some links to repositories and articles covering this season of Advent of Code.
+
+### Kotlin
+
+- [Advent of Code 2021 Directory](https://todd.ginsberg.com/post/advent-of-code/2021/) by Todd Ginsberg. Elegant solutions in Kotlin.
+- [advent-2021-kotlin](https://github.com/tginsberg/advent-2021-kotlin) Todd's repository
+- [xorum-io/advent-of-code-2021](https://github.com/xorum-io/advent-of-code-2021) Yev Kanivets' repository
+- [SebastianAigner/advent-of-code-2021](https://github.com/SebastianAigner/advent-of-code-2021) Sebastian Aigner's reposotory
+- [Jetbrains Youtube Day 1](https://www.youtube.com/watch?v=76IzmtOyiHw)
+- [Jetbrains Youtube Day 2](https://www.youtube.com/watch?v=4A2WwniJdNc)
+- [Jetbrains Youtube Day 3](https://www.youtube.com/watch?v=mF2PTnnOi8w)
+- [Jetbrains Youtube Day 4](https://www.youtube.com/watch?v=wL6sEoLezPQ)
+
+### Python
+
+- [Jonathan Paulson Channel](https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA)
+- [Advent of Code 2021 Playlist by William Feng](https://www.youtube.com/playlist?list=PLsqh-jhhTL29BXbcf-J6eZq1PASHGmlp7) 
+
+### Rust
+
+- [Advent of Code 2021 Playlist by  Jocelyn Stericker](https://www.youtube.com/playlist?list=PLl7z_pRSmZp6vNrWqDBPk0FnfE94aSfco)
