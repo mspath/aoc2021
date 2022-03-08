@@ -1,5 +1,4 @@
-Advent of Code 2021
-===================
+# Advent of Code 2021
 
 [Advent of Code] - an advent calendar of programming puzzles.
 
@@ -142,3 +141,14 @@ here are some links to repositories and articles covering this season of Advent 
 ### Rust
 
 - [Advent of Code 2021 Playlist by  Jocelyn Stericker](https://www.youtube.com/playlist?list=PLl7z_pRSmZp6vNrWqDBPk0FnfE94aSfco)
+
+---
+
+Environment
+
+- Kotlin 1.6.10
+- Intellij 2021.3.2
+
+---
+
+updated: 2022-03-08

@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.6.0"
+    kotlin("jvm") version "1.6.10"
     application
 }
 
@@ -13,9 +13,9 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2-native-mt")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0-native-mt")
     testImplementation(kotlin("test"))
-    testImplementation("com.github.stefanbirkner:system-lambda:1.2.0")
+    testImplementation("com.github.stefanbirkner:system-lambda:1.2.1")
 }
 
 tasks.test {
