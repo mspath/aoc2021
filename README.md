@@ -48,7 +48,7 @@ find spots on a map.
 
 help out syntax scoring algorithms.
 
-### Day 11 Dumbo Ocotopus
+### Day 11 Dumbo Octopus
 
 find your way through a grid of bioluminescent octopuses.
 
@@ -58,7 +58,7 @@ find all paths between start and end.
 
 this one was hard for me. still need to wrap my head around traversing search and the exit conditions for recursive functions.
 
-### Day 13 Traansparent Origami
+### Day 13 Transparent Origami
 
 discover the hidden code by folding and merging points on a transparent sheet of paper.
 
@@ -140,15 +140,15 @@ here are some links to repositories and articles covering this season of Advent 
 
 ### Rust
 
-- [Advent of Code 2021 Playlist by  Jocelyn Stericker](https://www.youtube.com/playlist?list=PLl7z_pRSmZp6vNrWqDBPk0FnfE94aSfco)
+- [Advent of Code 2021 Playlist by Jocelyn Stericker](https://www.youtube.com/playlist?list=PLl7z_pRSmZp6vNrWqDBPk0FnfE94aSfco)
 
 ---
 
 Environment
 
-- Kotlin 1.6.10
-- Intellij 2021.3.2
+- Kotlin 1.7.10
+- Intellij 2021.3.3
 
 ---
 
-updated: 2022-03-08
+updated: 2022-08-21
