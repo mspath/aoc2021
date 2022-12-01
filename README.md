@@ -146,9 +146,14 @@ here are some links to repositories and articles covering this season of Advent 
 
 Environment
 
-- Kotlin 1.7.10
-- Intellij 2021.3.3
+- Kotlin 1.7.21
+- Intellij 2022.2.4
 
 ---
 
-updated: 2022-08-21
+```
+language: kotlin
+repo: aoc2021
+status: active
+updated: 2022-12-01
+```
