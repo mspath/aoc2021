@@ -146,7 +146,7 @@ here are some links to repositories and articles covering this season of Advent 
 
 Environment
 
-- Kotlin 1.7.21
+- Kotlin 1.8.0
 - Intellij 2022.2.4
 
 ---
@@ -155,5 +155,5 @@ Environment
 language: kotlin
 repo: aoc2021
 status: active
-updated: 2022-12-01
+updated: 2023-01-22
 ```
